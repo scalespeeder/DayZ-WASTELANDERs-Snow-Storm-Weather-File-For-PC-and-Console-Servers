@@ -1,6 +1,6 @@
-DayZ update Patch 1.26 Chernarus & Livonia WASTELANDER Snowy Weather Weather XML File Config Mod For Consoles & PC XML Snippets Instructions & Terms Of Use
+DayZ update Patch 1.26 Chernarus & Livonia WASTELANDER Snowy Weather XML File Config Mod For Consoles & PC XML Instructions & Terms Of Use
 
-These file when uploaded to your Mission Server, will give you snow storms.
+This file when uploaded to your Mission Server, will give you snow storms.
 
 Limited Testing on PC Chernarus PC Local Server DAYZ Experimental Version 1.26 Oct 2024.
 
@@ -34,7 +34,7 @@ PLEASE MAKE A BACKUP OF YOUR EXISTING CFGWEATHER.XML BEFORE YOU UPLOAD THE NEW F
 
 Then simply upload cfgweather.xml to your appropriate mission folder, over-the top or in-the-place-of the old file on your Server. 
 
-(I have included the vanilla file when you want to revert, it's called cfgweatherBAK )
+(I have included the vanilla file when you want to revert, it's called cfgweatherBAK. Rename & upload to hopefully get normal weather back! )
 
 Re-start your server for the changes to take effect.
 
